@@ -1,0 +1,1 @@
+Nyka is a Fashion web page which is used to shop in online for Men and Women Clothing, Accessories and Home Appliances etc. This page is designed by using HTML, CSS, Bootstrap. I have used some product links in this project.
